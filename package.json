@@ -1,0 +1,24 @@
+{
+  "name": "KNN-typescript",
+  "version": "1.0.0",
+  "description": "KNN-typescript",
+  "main": "main.js",
+  "scripts": {
+    "build": "grunt concat:build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maxiguil/KNN-typescript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maxiguil/KNN-typescript/issues"
+  },
+  "homepage": "https://github.com/maxiguil/KNN-typescript#readme",
+  "dependencies": {
+    "grunt": "^1.4.1",
+    "grunt-contrib-concat": "^2.0.0"
+  }
+}
